@@ -57,7 +57,7 @@ import java.io.File
 fun main() {
     val inputRows = mutableListOf<String>()
 
-    File("/Users/w1d0/worksspaces/BearIT/AdventOfCode2025/src/seven/daySevenInput.txt").forEachLine { line ->
+    File("/Users/w1d0/worksspaces/BearIT/AdventOfCode2025/src/seven/dayEightInput.txt").forEachLine { line ->
         inputRows += line
     }
 
